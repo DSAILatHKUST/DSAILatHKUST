@@ -11,6 +11,12 @@ All in One and One for All: A Simple yet Effective Method towards Cross-domain G
 
 Relaxing Continuous Constraints of Equivariant Graph Neural Networks for Physical Dynamics Learning [[github](https://github.com/compasszzn/DEGNN)]
 
+### ICML 2024
+Parameter Efficient Fine-Tuning with Discrete Fourier Transform [[github](https://github.com/Chaos96/fourierft)]
+
+### IJCAI 2024
+A Survey of Graph Meets Large Language Model: Progress and Future Directions [[github](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks)]
+
 ### NIPS 2023
 GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection [[github](https://github.com/squareRoot3/GADBench)]
 
