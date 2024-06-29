@@ -60,5 +60,16 @@ Structural Contrastive Pretraining for Cross-Lingual Comprehension [[github](htt
 
 A Fused Gromov-Wasserstein Framework for Unsupervised Knowledge Graph Entity Alignment [[github](https://github.com/squareRoot3/FusedGW-Entity-Alignment)]
 
+### Nature Communications 2023
+Hierarchical Graph Learning for Protein-Protein Interaction [[github](https://github.com/zqgao22/HIGH-PPI)]
+
+### AAAI 2023
+Handling Missing Data via Max-Entropy Regularized Graph Autoencoder
+Human Mobility Modeling During the COVID-19 Pandemic via Deep Graph Diffusion Infomax
+Wiener Graph Deconvolutional Network Improves Graph Self-Supervised Learning
+
+### ICDE 2023
+Robust Attributed Graph Alignment via Joint Structure Learning and Optimal Transport [[github](https://github.com/squareRoot3/SLOTAlign)]
+
 ### ICML 2022
 Rethinking Graph Neural Networks for Anomaly Detection [[github](https://github.com/squareRoot3/Rethinking-Anomaly-Detection)]
