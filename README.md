@@ -1,4 +1,12 @@
 # Data Science & Artificial Intelligence Lab
+
+## About Us
+Welcome to the DSAI Lab at the HKUST(GZ), our research focuses on a variety of topics within the realm of artificial intelligence, including but not limited to
+* Graph Foundation Model
+* Data Mining
+* AI for Science
+* Large Language Model
+
 ## Publication
 
 ### KDD 2024
